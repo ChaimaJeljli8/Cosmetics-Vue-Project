@@ -4,61 +4,71 @@
       "image": "blush.jpg",
       "name": "Blush",
       "description": "A pink Blush for your daily use from MILK makeup brand",
-      "price": 10
+      "price": 10,
+      "stock":12
     },
     {
       "image": "brows.jpg",
       "name": "Brows",
       "description": "A Brows Kit that contains 3 different products for better-looking brows from NARS makeup brand",
-      "price": 50
+      "price": 50,
+      "stock":0
     },
     {
       "image": "fondation.jpg",
       "name": "Fondation",
       "description": "A light Fondation for light-skinned women by SEPHORA makeup brand",
-      "price": 20
+      "price": 20,
+      "stock":4
     },
     {
       "image": "lighter.jpg",
       "name": "Highlighter",
       "description": "A beautiful sparkling Highlighter from LUMI makeup brand",
-      "price": 15
+      "price": 15,
+      "stock":10
     },
     {
       "image": "lip.webp",
       "name": "Lip",
       "description": "A vibrant Red lipstick for your lips from SEPHORA makeup brand",
-      "price": 10
+      "price": 10,
+      "stock":10
     },
     {
       "image": "primer.jpg",
       "name": "Primer",
       "description": "A primer for using before your makeup to prep your skin from ELF makeup brand",
-      "price": 25
+      "price": 25,
+      "stock":10
     },
     {
       "image": "palette.jpg",
       "name": "Palette",
       "description": "A Palette with different blush, bronzer, and powder colors for your daily makeup from NARS makeup brand",
-      "price": 70
+      "price": 70,
+      "stock":10
     },
     {
       "image": "Pink Box Premium Advent Calendar 2023.jpg",
       "name": "Advent Calendar",
       "description": "A new YEAR Pink Box Premium Advent Calendar 2023 contains different products",
-      "price": 100
+      "price": 100,
+      "stock":10
     },
     {
       "image": "kit.jpg",
       "name": "Kit",
       "description": "A makeup KIT that contains various products such as foundation, lipstick, and more",
-      "price": 120
+      "price": 120,
+      "stock":10
     },
     {
       "image": "powder.jpg",
       "name": "Blush Powder",
       "description": "Different colors for sparkling blush/bronzer to elevate your makeup looks",
-      "price": 80
+      "price": 80,
+      "stock":10
     }
   ]
 }
