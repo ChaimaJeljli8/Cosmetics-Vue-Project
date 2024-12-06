@@ -128,10 +128,10 @@
           "price": 35,
         },
         {
-          image: new URL("@/assets/images/spf.jpg", import.meta.url).href,
-          name: "SPF 50 Sunscreen",
-          description: "Broad-spectrum SPF 50 sunscreen for all skin types",
-          price: 12,
+          "image": new URL("@/assets/images/spf.jpg", import.meta.url).href,
+          "name": "SPF 50 Sunscreen",
+          "description": "Broad-spectrum SPF 50 sunscreen for all skin types",
+          "price": 12,
         },
       ],
       "PERFUMEproducts": [
