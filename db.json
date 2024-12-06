@@ -1,0 +1,212 @@
+{
+"MAKEUPproducts": [
+        {
+          image: new URL("@/assets/images/blush.jpg", import.meta.url).href,
+          name: "Blush",
+          description: "A pink Blush for your daily use from MILK makeup brand",
+          price: 10,
+        },
+        {
+          image: new URL("@/assets/images/brows.jpg", import.meta.url).href,
+          name: "Brows",
+          description:
+            "A Brows Kit that contains 3 different products for better looking brows from NARS makeup brand",
+          price: 50,
+        },
+        {
+          image: new URL("@/assets/images/fondation.jpg", import.meta.url).href,
+          name: "Fondation",
+          description:
+            "A light Fondation for light-skinned women by SEPHORA makeup brand",
+          price: 20,
+        },
+        {
+          image: new URL("@/assets/images/lighter.jpg", import.meta.url).href,
+          name: "Highlighter",
+          description:
+            "A beautiful sparkling Highlighter from LUMI makeup brand",
+          price: 15,
+        },
+        {
+          image: new URL("@/assets/images/lip.webp", import.meta.url).href,
+          name: "Lip",
+          description:
+            "A vibrant Red lipstick for your lips from SEPHORA makeup brand",
+          price: 10,
+        },
+        {
+          image: new URL("@/assets/images/primer.jpg", import.meta.url).href,
+          name: "Primer",
+          description:
+            "A primer for using before your makeup to prep your skin from ELF makeup brand",
+          price: 25,
+        },
+        {
+          image: new URL("@/assets/images/palette.jpg", import.meta.url).href,
+          name: "Palette",
+          description:
+            "A Palette with different blush, bronzer, and powder colors for your daily makeup from NARS makeup brand",
+          price: 70,
+        },
+        {
+          image: new URL(
+            "@/assets/images/Pink Box Premium Advent Calendar 2023.jpg",
+            import.meta.url
+          ).href,
+          name: "Advent Calendar",
+          description:
+            "A new YEAR Pink Box Premium Advent Calendar 2023 contains different products",
+          price: 100,
+        },
+        {
+          image: new URL("@/assets/images/kit.jpg", import.meta.url).href,
+          name: "Kit",
+          description:
+            "A makeup KIT that contains various products such as foundation, lipstick, and more",
+          price: 120,
+        },
+        {
+          image: new URL("@/assets/images/powder.jpg", import.meta.url).href,
+          name: "Blush Powder",
+          description:
+            "Different colors for sparkling blush/bronzer to elevate your makeup looks",
+          price: 80,
+        },
+      ],
+},
+  {
+      "SKINCAREproducts": [
+        {
+          image: new URL("@/assets/images/korean-serum.jpg", import.meta.url)
+            .href,
+          name: "Korean Serum",
+          description: "A nourishing Korean serum for glowing skin",
+          price: 25,
+        },
+        {
+          image: new URL("@/assets/images/anti-aging.jpg", import.meta.url)
+            .href,
+          name: "Anti-Aging Cream",
+          description:
+            "An anti-aging cream to smooth out fine lines and wrinkles from LA MER",
+          price: 70,
+        },
+        {
+          image: new URL("@/assets/images/simple.webp", import.meta.url).href,
+          name: "Simple Hydration",
+          description: "A simple hydrating cream for all skin types",
+          price: 15,
+        },
+        {
+          image: new URL("@/assets/images/garnier.jpg", import.meta.url).href,
+          name: "Garnier Vitamin C",
+          description: "Vitamin C serum to brighten skin from Garnier",
+          price: 18,
+        },
+        {
+          image: new URL("@/assets/images/skincare1.webp", import.meta.url)
+            .href,
+          name: "SkinCare 1",
+          description: "A hydrating moisturizer with aloe vera and chamomile",
+          price: 20,
+        },
+        {
+          image: new URL("@/assets/images/rhode.jpg", import.meta.url).href,
+          name: "Rhode Peptide Cream",
+          description:
+            "A peptide-rich cream to rejuvenate and hydrate your skin",
+          price: 45,
+        },
+        {
+          image: new URL("@/assets/images/skincare.jpg", import.meta.url).href,
+          name: "Skincare Essentials",
+          description: "A set of skincare essentials for your daily routine",
+          price: 40,
+        },
+        {
+          image: new URL("@/assets/images/skincare1.jpg", import.meta.url).href,
+          name: "Advanced Skincare",
+          description: "An advanced skincare serum for acne-prone skin",
+          price: 30,
+        },
+        {
+          image: new URL("@/assets/images/snail.jpg", import.meta.url).href,
+          name: "Snail Repair Gel",
+          description: "A snail mucin-based gel to repair and hydrate skin",
+          price: 35,
+        },
+        {
+          image: new URL("@/assets/images/spf.jpg", import.meta.url).href,
+          name: "SPF 50 Sunscreen",
+          description: "Broad-spectrum SPF 50 sunscreen for all skin types",
+          price: 12,
+        },
+      ],
+  },
+{
+      "PERFUMEproducts": [
+        {
+          image: new URL("@/assets/images/bombshell.jpg", import.meta.url).href,
+          name: "Bombshell",
+          description: "A seductive fragrance by Victoria's Secret",
+          price: 50,
+        },
+        {
+          image: new URL("@/assets/images/dior.jpg", import.meta.url).href,
+          name: "Dior Sauvage",
+          description: "A woody aromatic fragrance by Christian Dior",
+          price: 85,
+        },
+        {
+          image: new URL("@/assets/images/gucci.jpg", import.meta.url).href,
+          name: "Gucci Bloom",
+          description: "A fresh floral fragrance by Gucci",
+          price: 70,
+        },
+        {
+          image: new URL("@/assets/images/idole.jpg", import.meta.url).href,
+          name: "Idôle",
+          description: "A floral fragrance by Lancôme",
+          price: 75,
+        },
+        {
+          image: new URL("@/assets/images/kayali.jpg", import.meta.url).href,
+          name: "Kayali Vanilla",
+          description: "A warm and sweet vanilla fragrance by Kayali",
+          price: 65,
+        },
+        {
+          image: new URL("@/assets/images/lostcherry.jpg", import.meta.url)
+            .href,
+          name: "Lost Cherry",
+          description: "A sweet, fruity fragrance by Tom Ford",
+          price: 120,
+        },
+        {
+          image: new URL("@/assets/images/missdior.jpg", import.meta.url).href,
+          name: "Miss Dior",
+          description: "A romantic and floral fragrance by Dior",
+          price: 95,
+        },
+        {
+          image: new URL("@/assets/images/myway.jpg", import.meta.url).href,
+          name: "My Way",
+          description: "A floral woody fragrance by Giorgio Armani",
+          price: 80,
+        },
+        {
+          image: new URL("@/assets/images/red Baccara.webp", import.meta.url)
+            .href,
+          name: "Red Baccara",
+          description: "A deep, rich fragrance with floral notes by Lancôme",
+          price: 110,
+        },
+        {
+          image: new URL("@/assets/images/sunkissed.jpg", import.meta.url).href,
+          name: "Sunkissed",
+          description:
+            "A warm, tropical fragrance with fruity and floral notes",
+          price: 50,
+        },
+      ],
+    }
