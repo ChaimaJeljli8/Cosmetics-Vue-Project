@@ -1,73 +1,64 @@
 {
-"MAKEUPproducts": [
-        {
-          "image": "https://example.com/assets/images/blush.jpg",
-          "name": "Blush",
-          "description": "A pink Blush for your daily use from MILK makeup brand",
-         "price": 10,
-        },
-        {
-          "image": "https://example.com/assets/images/brows.jpg",
-          "name": "Brows",
-          "description":
-            "A Brows Kit that contains 3 different products for better looking brows from NARS makeup brand",
-          "price": 50,
-        },
-        {
-          "image": "https://example.com/assets/images/fondation.jpg",
-         "name": "Fondation",
-          "description":
-            "A light Fondation for light-skinned women by SEPHORA makeup brand",
-          "price": 20,
-        },
-        {
-          "image": "https://example.com/assets/images/lighter.jpg",
-          "name": "Highlighter",
-          "description":
-            "A beautiful sparkling Highlighter from LUMI makeup brand",
-          "price": 15,
-        },
-        {
-          "image": "https://example.com/assets/images/lip.webp",
-          "name": "Lip",
-          "description":
-            "A vibrant Red lipstick for your lips from SEPHORA makeup brand",
-          "price": 10,
-        },
-        {
-          "image": "https://example.com/assets/images/primer.jpg",
-          "name": "Primer",
-          "description":
-            "A primer for using before your makeup to prep your skin from ELF makeup brand",
-          "price": 25,
-        },
-        {
-          "image": "https://example.com/assets/images/palette.jpg",
-          "name": "Palette",
-          "description":
-            "A Palette with different blush, bronzer, and powder colors for your daily makeup from NARS makeup brand",
-          "price": 70,
-        },
-        {
-          "image": "https://example.com/assets/images/Pink Box Premium Advent Calendar 2023.jpg",
-          "name": "Advent Calendar",
-          "description":
-            "A new YEAR Pink Box Premium Advent Calendar 2023 contains different products",
-          "price": 100,
-        },
-        {
-          "image": "https://example.com/assets/images/kit.jpg",
-          "name": "Kit",
-          "description":
-            "A makeup KIT that contains various products such as foundation, lipstick, and more",
-          "price": 120,
-        },
-        {
-          "image":"https://example.com/assets/images/powder.jpg",
-          "name": "Blush Powder",
-          "description":
-            "Different colors for sparkling blush/bronzer to elevate your makeup looks",
-          "price": 80,
-        },
-      ]
+  "MAKEUPproducts": [
+    {
+      "image": "https://example.com/assets/images/blush.jpg",
+      "name": "Blush",
+      "description": "A pink Blush for your daily use from MILK makeup brand",
+      "price": 10
+    },
+    {
+      "image": "https://example.com/assets/images/brows.jpg",
+      "name": "Brows",
+      "description": "A Brows Kit that contains 3 different products for better-looking brows from NARS makeup brand",
+      "price": 50
+    },
+    {
+      "image": "https://example.com/assets/images/fondation.jpg",
+      "name": "Fondation",
+      "description": "A light Fondation for light-skinned women by SEPHORA makeup brand",
+      "price": 20
+    },
+    {
+      "image": "https://example.com/assets/images/lighter.jpg",
+      "name": "Highlighter",
+      "description": "A beautiful sparkling Highlighter from LUMI makeup brand",
+      "price": 15
+    },
+    {
+      "image": "https://example.com/assets/images/lip.webp",
+      "name": "Lip",
+      "description": "A vibrant Red lipstick for your lips from SEPHORA makeup brand",
+      "price": 10
+    },
+    {
+      "image": "https://example.com/assets/images/primer.jpg",
+      "name": "Primer",
+      "description": "A primer for using before your makeup to prep your skin from ELF makeup brand",
+      "price": 25
+    },
+    {
+      "image": "https://example.com/assets/images/palette.jpg",
+      "name": "Palette",
+      "description": "A Palette with different blush, bronzer, and powder colors for your daily makeup from NARS makeup brand",
+      "price": 70
+    },
+    {
+      "image": "https://example.com/assets/images/Pink Box Premium Advent Calendar 2023.jpg",
+      "name": "Advent Calendar",
+      "description": "A new YEAR Pink Box Premium Advent Calendar 2023 contains different products",
+      "price": 100
+    },
+    {
+      "image": "https://example.com/assets/images/kit.jpg",
+      "name": "Kit",
+      "description": "A makeup KIT that contains various products such as foundation, lipstick, and more",
+      "price": 120
+    },
+    {
+      "image": "https://example.com/assets/images/powder.jpg",
+      "name": "Blush Powder",
+      "description": "Different colors for sparkling blush/bronzer to elevate your makeup looks",
+      "price": 80
     }
+  ]
+}
